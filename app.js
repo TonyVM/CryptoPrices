@@ -1,4 +1,4 @@
-const binanceApI = 'https://api.binance.com/'
+const binanceAPI = 'https://api.binance.com/'
 const endpointPrices = 'https://api.binance.com/api/v3/ticker/price'
 const endpointPriceChange = ''
 const dataBody = document.querySelector('#data')
