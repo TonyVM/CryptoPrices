@@ -1,7 +1,7 @@
 body {
     min-width: 420px;
     background-color: lightcyan;
-    font-family: 'Courier New', Courier, monospace;
+    font-family: 'Jetbrains Mono','Courier New', Courier, monospace;
 }
 
 h1 {
